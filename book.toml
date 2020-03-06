@@ -1,0 +1,17 @@
+[book]
+authors = ["Lukáš Hozda"]
+language = "cs"
+multilingual = false
+src = "src"
+title = "GJK Cat - Repozitář studijních materiálů"
+create-missing = true
+
+[output.html.fold]
+enabled = true
+level = 0
+
+[output.html.playpen]
+editable = true
+copyable = true
+copy-js = true
+
