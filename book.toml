@@ -6,6 +6,9 @@ src = "src"
 title = "GJK Cat - Repozitář studijních materiálů"
 create-missing = true
 
+[output.html]
+theme = "src/theme"
+
 [output.html.fold]
 enabled = true
 level = 0
