@@ -1,3 +1,18 @@
 [submodule "cat-prep"]
 	path = cat-prep
 	url = https://github.com/gjk-cat/cat-prep
+[submodule "predmety/it.gjk.cat"]
+	path = predmety/it.gjk.cat
+	url = https://github.com/gjk-cat/it.gjk.cat
+[submodule "predmety/aj.gjk.cat"]
+	path = predmety/aj.gjk.cat
+	url = https://github.com/gjk-cat/aj.gjk.cat
+[submodule "predmety/tr.gjk.cat"]
+	path = predmety/tr.gjk.cat
+	url = https://github.com/gjk-cat/tr.gjk.cat
+[submodule "predmety/cj.gjk.cat"]
+	path = predmety/cj.gjk.cat
+	url = https://github.com/gjk-cat/cj.gjk.cat
+[submodule "predmety/sablona"]
+	path = predmety/sablona
+	url = https://github.com/gjk-cat/sablona
