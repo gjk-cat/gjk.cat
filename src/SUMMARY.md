@@ -1,7 +1,7 @@
 # Obsah
 
 [Index](./index.md)
-- [Předměty](./predmety.md)
+- [Obory](./predmety.md)
 	- [Informatika](./predmety/informatika.md)
 	- [Čeština](./predmety/cestina.md)
 	- [Angličtina](./predmety/anglictina.md)
