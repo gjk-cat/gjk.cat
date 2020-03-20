@@ -16,3 +16,6 @@
 [submodule "predmety/sablona"]
 	path = predmety/sablona
 	url = https://github.com/gjk-cat/sablona
+[submodule "predmety/theme"]
+	path = predmety/theme
+	url = https://github.com/gjk-cat/theme
