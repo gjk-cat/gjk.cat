@@ -29,7 +29,7 @@ mdbook build
 ## Licence
 
 ```
-Lukáš Hozda <me@magnusi.tech> 2020 (c)
+GJK.cat administrátoři <hozda@gjk.cz> 2020 (c)
 
 Usage of the works is permitted provided that this instrument is retained with the works, so that any entity that uses the works is notified of this instrument.
 
